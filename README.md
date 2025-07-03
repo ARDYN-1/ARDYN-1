@@ -32,8 +32,7 @@ Always open to learning, collaborating, and turning ideas into code. 🚀</p>
 </p>
 
 <h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=ARDYN-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ARDYN-1&theme=dark&hide_border=false" /><br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARDYN-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 <p>
