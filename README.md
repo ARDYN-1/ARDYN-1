@@ -1,10 +1,11 @@
 <div align="center" style="background-color:#000000; color:#ffffff; padding:20px; border-radius:10px;">
-
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 <h1>💫 About Me</h1>
 <p>Hi, I’m <strong>Amit Pramanik</strong> <br>Front-end developer passionate about building clean, creative, and user-friendly web experiences.<br>
-Always open to learning, collaborating, and turning ideas into code. 🚀</p>
+Always open to learning, collaborating, and turning ideas into code. 🚀</p> 
 
-<h2>🌐 Socials</h2>
+
+
 <p>
   <a href="https://www.instagram.com/ig_amitz__/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
@@ -17,8 +18,6 @@ Always open to learning, collaborating, and turning ideas into code. 🚀</p>
   </a>
 </p>
 
-<h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 
 <h2>💻 Tech Stack</h2>
 <p>
