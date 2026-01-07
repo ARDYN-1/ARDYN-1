@@ -38,8 +38,8 @@ Always open to learning, collaborating, and turning ideas into code. 🚀</p>
   <img src="https://visitcount.itsvg.in/api?id=ARDYN-1&icon=0&color=0" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 </div>
