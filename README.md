@@ -31,6 +31,15 @@ Always open to learning, collaborating, and turning ideas into code. 🚀</p>
 </p>
 
 
+<h2>📊 GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARDYN-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+<p>
+  <img src="https://visitcount.itsvg.in/api?id=ARDYN-1&icon=0&color=0" />
+</p>
+
+
 <!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div> -->
